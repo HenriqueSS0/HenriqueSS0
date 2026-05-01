@@ -30,9 +30,9 @@
 
 Experiência sólida com React, Next.js e Node.js, atuando na construção de soluções completas, APIs e interfaces modernas. Meu trabalho foca na construção de aplicações com arquitetura escalável e experiência do usuário otimizada.
 
-• **Localização:** Colatina, Espírito Santo, Brasil
-• **Formação:** Sistemas de Informação (UNESC)
-• **Atuação Atual:** Desenvolvedor Freelancer Full Stack
+• **Localização:** Colatina, Espírito Santo, Brasil <br>
+• **Formação:** Sistemas de Informação (UNESC) <br>
+• **Atuação Atual:** Desenvolvedor Freelancer Full Stack <br>
 • **Foco Principal:** Desenvolvimento end-to-end, APIs e manipulação/persistência de dados em PostgreSQL.
 
 <br clear="all"> <!-- Limpa o float para o fogo não bugar do lado da imagem -->
