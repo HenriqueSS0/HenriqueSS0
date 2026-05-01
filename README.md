@@ -6,7 +6,9 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
-Meu nome é Henrique Sartori, um Desenvolvedor Full Stack. Entusiasta em resolver problemas desafiadores e arquitetar soluções bem estruturadas, gosto de construir sistemas e estudar novas tecnologias. Você pode visitar meu portfólio a qualquer momento para obter mais informações sobre mim: [portfolio.sartt.site](https://portfolio.sartt.site)
+Full Stack Developer com foco em desenvolvimento de aplicações e sistemas digitais. Experiência com React, Next.js e Node.js, atuando na construção de soluções completas, APIs e interfaces modernas. Desenvolvimento orientado à performance, organização de código e escalabilidade.
+
+Você pode ver meus projetos completos e saber mais sobre mim acessando o meu portfólio: [portfolio.sartt.site](https://portfolio.sartt.site)
 
 - 🇧🇷 Desenvolvedor Freelancer Full Stack
 - 💻 React, Next.js, Node.js, Typescript e PostgreSQL
