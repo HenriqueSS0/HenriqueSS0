@@ -13,15 +13,13 @@
 
   <br><br>
 
-  <!-- Botão de Portfólio -->
-  <a href="https://portfolio.sartt.site" target="_blank">
+  <a href="https://portfolio.sartt.site">
     <img src="https://img.shields.io/badge/Portfolio-141414?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br><br>
 
-<!-- Imagem do personagem alinhada à direita -->
 <img align="right" src="./53d53fdabd616dff79b3534cc7c8d24b.jpg" alt="Hunter Character" width="300" />
 
 ## • Sobre Mim
@@ -35,7 +33,7 @@ Experiência sólida com React, Next.js e Node.js, atuando na construção de so
 • **Atuação Atual:** Desenvolvedor Freelancer Full Stack <br>
 • **Foco Principal:** Desenvolvimento end-to-end, APIs e manipulação/persistência de dados em PostgreSQL.
 
-<br clear="all"> <!-- Limpa o float para o fogo não bugar do lado da imagem -->
+<br clear="all"> 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" />
@@ -67,7 +65,6 @@ Desenvolvendo sistemas e aplicações digitais sob medida, atuando em todas as c
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=HenriqueSS0&repo=portfolio-pessoal&theme=radical&bg_color=0D0D0D&hide_border=true&title_color=A9A9A9&text_color=7A7A7A&icon_color=4D4D4D" width="48%" />
   </a>
   <a href="https://github.com/HenriqueSS0/SiteVanute" target="_blank">
-    <!-- Adicionei o &v=1 aqui no final para burlar o cache e forçar a nova descrição a aparecer! -->
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=HenriqueSS0&repo=SiteVanute&theme=radical&bg_color=0D0D0D&hide_border=true&title_color=A9A9A9&text_color=7A7A7A&icon_color=4D4D4D&v=1" width="48%" />
   </a>
 </div>
@@ -115,9 +112,9 @@ Desenvolvendo sistemas e aplicações digitais sob medida, atuando em todas as c
 ## • Contato
 
 <div align="center">
-  <a href="https://portfolio.sartt.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-141414?style=for-the-badge&logo=web&logoColor=white" /></a>
-  <a href="mailto:henriquesartori2801@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=A9A9A9" /></a>
-  <a href="https://linkedin.com/in/henriquesartorii" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio.sartt.site"><img src="https://img.shields.io/badge/Portfolio-141414?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="mailto:henriquesartori2801@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=A9A9A9" /></a>
+  <a href="https://linkedin.com/in/henriquesartorii"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br><br>
