@@ -13,7 +13,7 @@ Meu nome é Henrique Sartori, um Desenvolvedor Full Stack. Entusiasta em resolve
 
 ### Formação Acadêmica
 
-- 🤖 Bacharelado em Sistemas de Informação (Cursando) na UNESC
+- 🤖 Cursando Sistemas de Informação na UNESC
 - 🎓 Formação Inicial de Programadores no Ifes
 
 <br>
