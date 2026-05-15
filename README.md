@@ -25,6 +25,6 @@ Você pode ver meus projetos completos e saber mais sobre mim acessando o meu po
 <a href="https://github.com/HenriqueSS0/Estokitas">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=HenriqueSS0&repo=Estokitas&theme=dark&bg_color=0D0D0D&hide_border=true&title_color=A9A9A9&text_color=7A7A7A&icon_color=4D4D4D" width="48%" />
 </a>
-<a href="https://github.com/HenriqueSS0/SiteVanute">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=HenriqueSS0&repo=SiteVanute&theme=dark&bg_color=0D0D0D&hide_border=true&title_color=A9A9A9&text_color=7A7A7A&icon_color=4D4D4D&v=1" width="48%" />
+<a href="https://github.com/HenriqueSS0/YoyoYo">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=HenriqueSS0&repo=YoyoYo&theme=dark&bg_color=0D0D0D&hide_border=true&title_color=A9A9A9&text_color=7A7A7A&icon_color=4D4D4D&v=1" width="48%" />
 </a>
