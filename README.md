@@ -8,7 +8,7 @@
 
 Full Stack Developer com foco em desenvolvimento de aplicações e sistemas digitais. Experiência com React, Next.js e Node.js, atuando na construção de soluções completas, APIs e interfaces modernas. Desenvolvimento orientado à performance, organização de código e escalabilidade.
 
-Você pode ver meus projetos completos e saber mais sobre mim acessando o meu portfólio: [portfolio.sartt.site](https://portfolio.sartt.site)
+Você pode ver meus projetos completos e saber mais sobre mim acessando o meu portfólio: [sartt.site](https://sartt.site)
 
 - 🇧🇷 Desenvolvedor Freelancer Full Stack
 - 💻 React, Next.js, Node.js, Typescript e PostgreSQL
