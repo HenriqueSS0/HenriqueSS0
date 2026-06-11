@@ -10,7 +10,7 @@ Full Stack Developer com foco em desenvolvimento de aplicações e sistemas digi
 
 Você pode ver meus projetos completos e saber mais sobre mim acessando o meu portfólio: [sartt.site](https://sartt.site)
 
-- 🇧🇷 Desenvolvedor Full Stack
+- 🇧🇷  Desenvolvedor Full Stack
 - 💻 React, Next.js, Node.js, Typescript e PostgreSQL
 
 ### Formação Acadêmica
